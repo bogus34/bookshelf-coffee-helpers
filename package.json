@@ -1,0 +1,15 @@
+{
+  "name": "bookshelf-coffee-helpers",
+  "version": "0.1.0",
+  "description": "Helpers for using Bookshelf with coffee-script",
+  "main": "lib/bookshelf-coffee-helpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookshelf",
+    "bookshelf-fields"
+  ],
+  "author": "\"Alexander Bogdanov\" <andorn@gmail.com>",
+  "license": "BSD-2-Clause"
+}
