@@ -11,9 +11,9 @@
     "bookshelf-fields"
   ],
   "author": "\"Alexander Bogdanov\" <andorn@gmail.com>",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
     "url": "https://github.com/bogus34/bookshelf-coffee-helpers"
-  },
+  }
 }
